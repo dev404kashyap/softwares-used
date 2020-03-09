@@ -7,3 +7,4 @@
 5. Angular
 6. React 
 7. Git(learn Asap..all these branch and stuff
+8. git flow 
