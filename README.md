@@ -1,6 +1,6 @@
 # softwares-used
 
-1. Robo 3T
+1. Robo 3T/ robo mongo
 2. PostMan
 3. MongoDb
 4. Node.js
